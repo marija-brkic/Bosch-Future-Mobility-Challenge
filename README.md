@@ -1,1 +1,3 @@
-# Bosch-Future-Mobility-Challenge
+# Bosch-Future-Mobility-Challenge  
+Creating a model for an autonomous vehicle and its real-time control  
+Automatic line tracking part of the competition
